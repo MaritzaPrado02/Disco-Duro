@@ -1,0 +1,14 @@
+C:\Users\Miguel Ramirez\Desktop\Repositorio GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Miguel Ramirez\Desktop\Repositorio GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Miguel Ramirez\Desktop\Repositorio GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Miguel Ramirez\Desktop\Repositorio GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\bin\Debug\BibliotecaDeClases.dll
+C:\Users\Miguel Ramirez\Desktop\Repositorio GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\Miguel Ramirez\Desktop\Repositorio GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\Miguel Ramirez\Desktop\Repositorio GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\obj\Debug\Interfaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\Miguel Ramirez\Desktop\Repositorio GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\obj\Debug\Interfaces.frmParticionesDisco.resources
+C:\Users\Miguel Ramirez\Desktop\Repositorio GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\obj\Debug\Interfaces.Properties.Resources.resources
+C:\Users\Miguel Ramirez\Desktop\Repositorio GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\obj\Debug\Interfaces.csproj.GenerateResource.cache
+C:\Users\Miguel Ramirez\Desktop\Repositorio GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Ramirez\Desktop\Repositorio GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\Users\Miguel Ramirez\Desktop\Repositorio GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Miguel Ramirez\Desktop\Repositorio GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\obj\Debug\Interfaces.pdb

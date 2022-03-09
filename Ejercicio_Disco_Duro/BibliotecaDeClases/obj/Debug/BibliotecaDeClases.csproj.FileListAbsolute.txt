@@ -1,0 +1,6 @@
+C:\Users\Miguel Ramirez\Desktop\Repositorio GitHub\Disco-Duro\Ejercicio_Disco_Duro\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.dll
+C:\Users\Miguel Ramirez\Desktop\Repositorio GitHub\Disco-Duro\Ejercicio_Disco_Duro\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\Miguel Ramirez\Desktop\Repositorio GitHub\Disco-Duro\Ejercicio_Disco_Duro\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csproj.AssemblyReference.cache
+C:\Users\Miguel Ramirez\Desktop\Repositorio GitHub\Disco-Duro\Ejercicio_Disco_Duro\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Ramirez\Desktop\Repositorio GitHub\Disco-Duro\Ejercicio_Disco_Duro\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.dll
+C:\Users\Miguel Ramirez\Desktop\Repositorio GitHub\Disco-Duro\Ejercicio_Disco_Duro\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.pdb

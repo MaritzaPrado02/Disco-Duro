@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "00218df9-c4c1-4fe8-8e5e-c2ea763b3b47": {
+      "ProjectGuid": "00218df9-c4c1-4fe8-8e5e-c2ea763b3b47",
+      "DisplayName": "Interfaces",
+      "ColorIndex": 0
+    },
+    "6dd68239-76a1-4ee3-a537-cf3ea46d4494": {
+      "ProjectGuid": "6dd68239-76a1-4ee3-a537-cf3ea46d4494",
+      "DisplayName": "BibliotecaDeClases",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
