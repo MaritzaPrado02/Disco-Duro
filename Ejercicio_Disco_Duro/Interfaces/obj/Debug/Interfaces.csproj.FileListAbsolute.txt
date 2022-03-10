@@ -12,3 +12,18 @@ C:\Users\Miguel Ramirez\Desktop\Repositorio GitHub\Disco-Duro\Ejercicio_Disco_Du
 C:\Users\Miguel Ramirez\Desktop\Repositorio GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
 C:\Users\Miguel Ramirez\Desktop\Repositorio GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\obj\Debug\Interfaces.exe
 C:\Users\Miguel Ramirez\Desktop\Repositorio GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\obj\Debug\Interfaces.pdb
+D:\Escritorio\Repositorios GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\bin\Debug\Interfaces.exe.config
+D:\Escritorio\Repositorios GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\bin\Debug\Interfaces.exe
+D:\Escritorio\Repositorios GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\bin\Debug\Interfaces.pdb
+D:\Escritorio\Repositorios GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\bin\Debug\BibliotecaDeClases.dll
+D:\Escritorio\Repositorios GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\bin\Debug\BibliotecaDeClases.pdb
+D:\Escritorio\Repositorios GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+D:\Escritorio\Repositorios GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\obj\Debug\Interfaces.frmParticiones.resources
+D:\Escritorio\Repositorios GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\obj\Debug\Interfaces.frmParticionesDisco.resources
+D:\Escritorio\Repositorios GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\obj\Debug\Interfaces.Properties.Resources.resources
+D:\Escritorio\Repositorios GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\obj\Debug\Interfaces.csproj.GenerateResource.cache
+D:\Escritorio\Repositorios GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+D:\Escritorio\Repositorios GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+D:\Escritorio\Repositorios GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\obj\Debug\Interfaces.exe
+D:\Escritorio\Repositorios GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\obj\Debug\Interfaces.pdb
+D:\Escritorio\Repositorios GitHub\Disco-Duro\Ejercicio_Disco_Duro\Interfaces\obj\Debug\Interfaces.frmPropiedadesParticion.resources
